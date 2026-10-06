@@ -72,3 +72,4 @@ docs updated (contract, runbook, ADR if a decision changed) · demoed to the pro
 | Assumption | 10-min latency is acceptable | OCC | Signed off in requirements |
 | Issue | Client master has wrong code for Raidurg | Planning team | Mapping uses AFC's `RDM`; correction requested |
 | Dependency | SFTP and QR access from DMRL IT | DMRL IT | Escalate in week 0 if not ready by day 3 |
+| Issue |  | Client
